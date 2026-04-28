@@ -1,3 +1,4 @@
+let button = Document.getElementById("order-btn");
 // BUG: Attempting to add a listener to a variable that hasn't been defined yet
 button.addEventListener("click", () => {
     alert("Order Placed!");
