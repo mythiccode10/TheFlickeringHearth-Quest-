@@ -16,5 +16,5 @@ body {
 
 h1 {
     /* BUG: Specificity or Color trap - setting white text on a white card */
-    color: #ffffff; 
+    color: #000000; 
 }
