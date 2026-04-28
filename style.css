@@ -10,7 +10,7 @@ body {
     background-color: white;
     padding: 20px;
     /* BUG: Width is set to 0, making the card invisible/collapsed */
-    width: 0; 
+    width: 100; 
     border-radius: 8px;
 }
 
